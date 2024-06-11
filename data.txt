@@ -1,0 +1,75 @@
+Artificial Intelligence is the intelligence possessed by the machines under which they can perform various functions with human help. With the help of A.I, machines will be able to learn, solve problems, plan things, think, etc. Artificial Intelligence, for example, is the simulation of human intelligence by machines. In the field of technology, Artificial Intelligence is evolving rapidly day by day and it is believed that in the near future, artificial intelligence is going to change human life very drastically and will most probably end all the crises of the world by sorting out the major problems. 
+
+
+Our life in this modern age depends largely on computers. It is almost impossible to think about life without computers. We need computers in everything that we use in our daily lives. So it becomes very important to make computers intelligent so that our lives become easy. Artificial Intelligence is the theory and development of computers, which imitates the human intelligence and senses, such as visual perception, speech recognition, decision-making, and translation between languages. Artificial Intelligence has brought a revolution in the world of technology. 
+
+
+Artificial Intelligence Applications
+AI is widely used in the field of healthcare. Companies are attempting to develop technologies that will allow for rapid diagnosis. Artificial Intelligence would be able to operate on patients without the need for human oversight. Surgical procedures based on technology are already being performed.
+
+
+Artificial Intelligence would save a lot of our time. The use of robots would decrease human labour. For example, in industries robots are used which have saved a lot of human effort and time. 
+
+
+In the field of education, AI has the potential to be very effective. It can bring innovative ways of teaching students with the help of which students will be able to learn the concepts better. 
+
+
+Artificial intelligence is the future of innovative technology as we can use it in many fields. For example, it can be used in the Military sector, Industrial sector, Automobiles, etc. In the coming years, we will be able to see more applications of AI as this technology is evolving day by day. 
+
+Marketing: Artificial Intelligence provides a deep knowledge of consumers and potential clients to the marketers by enabling them to deliver information at the right time. Through AI solutions, the marketers can refine their campaigns and strategies.
+
+Agriculture: AI technology can be used to detect diseases in plants, pests, and poor plant nutrition. With the help of AI, farmers can analyze the weather conditions, temperature, water usage, and condition of the soil.
+
+Banking: Fraudulent activities can be detected through AI solutions. AI bots, digital payment advisers can create a high quality of service.
+
+Health Care: Artificial Intelligence can surpass human cognition in the analysis, diagnosis, and complication of complicated medical data.
+
+
+History of Artificial Intelligence
+Artificial Intelligence may seem to be a new technology but if we do a bit of research, we will find that it has roots deep in the past. In Greek Mythology, it is said that the concepts of AI were used. 
+
+
+The model of Artificial neurons was first brought forward in 1943 by Warren McCulloch and Walter Pits. After seven years, in 1950, a research paper related to AI was published by Alan Turing which was titled 'Computer Machinery and Intelligence. The term Artificial Intelligence was first coined in 1956 by John McCarthy, who is known as the father of Artificial Intelligence. 
+
+
+To conclude, we can say that Artificial Intelligence will be the future of the world. As per the experts, we won't be able to separate ourselves from this technology as it would become an integral part of our lives shortly. AI would change the way we live in this world. This technology would prove to be revolutionary because it will change our lives for good. 
+
+
+Branches of Artificial Intelligence:
+Knowledge Engineering
+
+Robotics
+
+Machines Learning
+
+Natural Language Processing
+
+
+Types of Artificial Intelligence
+Artificial Intelligence is categorized in two types based on capabilities and functionalities. 
+
+Artificial Intelligence Type-1
+
+Artificial Intelligence Type-2
+
+
+Artificial Intelligence Type-1
+Narrow AI (weak AI): This is designed to perform a specific task with intelligence. It is termed as weak AI because it cannot perform beyond its limitations. It is trained to do a specific task. Some examples of Narrow AI are facial recognition (Siri in Apple phones), speech, and image recognition. IBM’s Watson supercomputer, self-driving cars, playing chess, and solving equations are also some of the examples of weak AI.
+
+General AI (AGI or strong AI): This system can perform nearly every cognitive task as efficiently as humans can do. The main characteristic of general AI is to make a system that can think like a human on its own. This is a long-term goal of many researchers to create such machines.
+
+Super AI: Super AI is a type of intelligence of systems in which machines can surpass human intelligence and can perform any cognitive task better than humans. The main features of strong AI would be the ability to think, reason, solve puzzles, make judgments, plan and communicate on its own. The creation of strong AI might be the biggest revolution in human history.
+
+
+Artificial Intelligence Type-2
+Reactive Machines: These machines are the basic types of AI. Such AI systems focus only on current situations and react as per the best possible action. They do not store memories for future actions. IBM’s deep blue system and Google’s Alpha go are the examples of reactive machines.
+
+Limited Memory: These machines can store data or past memories for a short period of time. Examples are self-driving cars. They can store information to navigate the road, speed, and distance of nearby cars.
+
+Theory of Mind: These systems understand emotions, beliefs, and requirements like humans. These kinds of machines are still not invented and it’s a long-term goal for the researchers to create one. 
+
+Self-Awareness: Self-awareness AI is the future of artificial intelligence. These machines can outsmart the humans. If these machines are invented then it can bring a revolution in human society. 
+
+
+Conclusion
+Artificial Intelligence will bring a huge revolution in the history of mankind. Human civilization will flourish by amplifying human intelligence with artificial intelligence, as long as we manage to keep the technology beneficial.
