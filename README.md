@@ -16,11 +16,13 @@ To get started with **MCQ Generator**, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Set up your OpenAI API key and LangChain credentials as environment variables.
-4. Run the Streamlit app using the command `streamlit run StreamlitAPP.py`.
-5. Upload your text or PDF file, specify the number of MCQs, and set subject and difficulty level.
-6. Click the "Generate MCQs" button to generate the quiz.
-7. Explore the generated MCQs and download the quiz as CSV if needed.
+3. Create a `.env` file in the root directory of the project.
+4. Add your OpenAI API key to the `.env` file in the following format:
+    OPENAI_API_KEY="your_openai_api_key"
+5. Run the Streamlit app using the command `streamlit run StreamlitAPP.py`.
+6. Upload your text or PDF file, specify the number of MCQs, and set subject and difficulty level.
+7. Click the "Generate MCQs" button to generate the quiz.
+8. Explore the generated MCQs and download the quiz as CSV if needed.
 
 ## Contributing
 
@@ -38,6 +40,6 @@ For any questions, issues, or feedback, please open an issue on GitHub or contac
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/open-source-ideas/open-source-ideas.github.io/blob/master/LICENSE).
 
 
