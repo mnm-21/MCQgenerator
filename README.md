@@ -24,6 +24,10 @@ To get started with **MCQ Generator**, follow these steps:
 7. Click the "Generate MCQs" button to generate the quiz.
 8. Explore the generated MCQs and download the quiz as CSV if needed.
 
+## Live Demo
+
+Check out the live demo of the MCQ Generator [here](https://mcqgenerator-mayankchandak.streamlit.app/).
+
 ## Contributing
 
 Contributions to **MCQ Generator** are welcome! To contribute, please follow these steps:
